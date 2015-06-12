@@ -52,6 +52,10 @@ Just call the `log` task, with the message to log as its first parameter
 10. thank you so much!
 
 ## Release History
-__0.0__: initial commit (2015/06/12)
+__1.0__: log:(msg) (2015/06/12)
+
+  * `log:msg` will output `msg`
+
+__0.0__: initial commit
 
   * no code yet.
