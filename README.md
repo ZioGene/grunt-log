@@ -59,3 +59,7 @@ __1.0__: log:(msg) (2015/06/12)
 __0.0__: initial commit
 
   * no code yet.
+
+## License
+
+MIT © [Xavier Priour](http://www.bubblyware.com)
