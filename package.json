@@ -24,14 +24,14 @@
   },
   "homepage": "https://github.com/xavierpriour/grunt-log",
   "devDependencies": {
-    "grunt-bump": "^0.3.1",
-    "grunt-contrib-jshint": "^0.9.2",
-    "grunt-contrib-nodeunit": "^0.3.3",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-jscs": "^1.8.0",
+    "grunt-bump": "0.x",
+    "grunt-contrib-jshint": "0.x",
+    "grunt-contrib-nodeunit": "0.x",
+    "grunt-contrib-watch": "0.x",
+    "grunt-jscs": "2.x",
     "grunt-prompt": "^1.3.0",
     "load-grunt-tasks": "^3.0.0",
-    "semver": "^4.3.6"
+    "semver": ">=4.3.6"
   },
   "peerDependencies": {
     "grunt": "^0.4.5"
