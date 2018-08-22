@@ -17,6 +17,6 @@ module.exports = function(grunt) {
     for (var i = 1; i < arguments.length; i++) {
       text += ':' + arguments[i];
     }
-    grunt.log.write(text);
+    grunt.log.writeln([new Date(), text]);
   });
 };
