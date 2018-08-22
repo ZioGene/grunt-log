@@ -15,7 +15,7 @@ grunt.registerTask('build', [
 ## Install
 You need node, npm, and grunt already installed, then:
 ```
-npm install grunt-log-time --save-dev
+npm install ZioGene/grunt-log --save-dev
 ```
 
 Once the plugin has been installed, load it in your Gruntfile.
