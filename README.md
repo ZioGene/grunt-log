@@ -1,4 +1,4 @@
-# grunt-log
+# grunt-log-time
 Grunt task to output log statements easily.
 
 ```js
@@ -15,14 +15,14 @@ grunt.registerTask('build', [
 ## Install
 You need node, npm, and grunt already installed, then:
 ```
-npm install grunt-log --save-dev
+npm install grunt-log-time --save-dev
 ```
 
 Once the plugin has been installed, load it in your Gruntfile.
 I recommend [load-grunt-tasks](https://www.npmjs.org/package/load-grunt-tasks),
 but you can do it the traditional, painful way by adding to your Gruntfile:
 ```js
-grunt.loadNpmTasks('grunt-log');
+grunt.loadNpmTasks('grunt-log-time');
 ```
 
 ## Usage
