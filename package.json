@@ -1,6 +1,6 @@
 {
-  "name": "grunt-log",
-  "version": "1.0.0",
+  "name": "grunt-log-time",
+  "version": "1.0.1",
   "description": "grunt task to log statements easily",
   "main": "tasks/log.js",
   "scripts": {
